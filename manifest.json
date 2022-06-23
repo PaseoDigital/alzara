@@ -1,9 +1,4 @@
 {
- "start_url": "index.html",
- "name": "ALZARA",
- "background_color": "#FFFFFF",
- "description": "Hermoso showroom con una demostración de las finas terminaciones y la alta tecnología del Grupo Altamira.",
- "display": "fullscreen",
  "icons": [
   {
    "type": "image/png",
@@ -41,5 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
- "theme_color": "#FFFFFF"
+ "theme_color": "#FFFFFF",
+ "description": "Hermoso showroom con una demostración de las finas terminaciones y la alta tecnología del Grupo Altamira.",
+ "display": "fullscreen",
+ "name": "ALZARA",
+ "background_color": "#FFFFFF",
+ "start_url": "index.html"
 }
